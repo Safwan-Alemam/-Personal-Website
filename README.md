@@ -37,12 +37,11 @@ Any browser for testing
 
 ---
 
-🚀 How to Run the Project
-Clone the repository or download the ZIP.
+## 🔗 Live Demo
 
-Make sure all files are in the same folder.
+✨ Click the link below to view the website live:
 
-Open index.html in your browser (double-click or right click → open with browser).
+👉 [Visit Website](file:///C:/Users/safwa/Downloads/My-pesonal-website/index.html)
 
 Enjoy the site!
 
