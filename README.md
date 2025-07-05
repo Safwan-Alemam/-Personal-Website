@@ -41,7 +41,7 @@ Any browser for testing
 
 ✨ Click the link below to view the website live:
 
-👉 [Visit Website](file:///C:/Users/safwa/Downloads/My-pesonal-website/index.html)
+👉 [Visit Website](https://safwan-alemam.github.io/-Personal-Website/)
 
 Enjoy the site!
 
