@@ -50,5 +50,5 @@ Enjoy the site!
 📬 Contact
 Feel free to reach out via email:
 
-📧 SALEMAM.stu@uje.edu.sa
+📧 SALEMAM.stu@uj.edu.sa
 
